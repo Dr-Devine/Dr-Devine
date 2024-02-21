@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dr-Devine.
 - 👀 I’m interested in all your pearls of coding wisdom.
-- 🌱 Just completed a Javascript group project and going onto learn Java.
-- ⭐ Completed the 'Web Dev Essentials' course with CodeClan covering Python and Django.
-- 🎓 Recently I started a fulltime 'Professional Software Development' course with CodeClan.
+- 🌱 Was working in a FinTech-Startup in the .net space with Azure. (They went bust)
+- ⭐ Completed the 'NPA Cyber Security Level 6' course.
+- 🎓 One of the last to Graduate in 'Professional Software Development' course with CodeClan. (RIP CodeClan)
 - 💞️ I’m looking to collaborate on anything you don't hold too precious, I am a coding noob after all.
 - 📫 How to reach me david.devine.111@gmail.com
 
