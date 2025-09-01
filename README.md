@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dr-Devine.
+- 👋 Hi,
 - 👀 I’m interested in all your pearls of coding wisdom.
 - 🌱 Was working in a FinTech-Startup in the .net space with Azure. (They went bust)
 - ⭐ Completed the 'NPA Cyber Security Level 6' course.
